@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ProfileInstagram</string>
+    <string name="userName">fritzent</string>
+    <string name="setting">Setting</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="btn_edit">Edit Profile</string>
+    <string name="valuePost">1</string>
+    <string name="valueFollower">413</string>
+    <string name="valueFollowing">891</string>
+    <string name="userMotto">\"Because Taste Isn\'t About Favor But The Story {Fritzent 1999}\"</string>
+    <string name="userMottoDua">	❤️ Classic Lover </string>
+    <string name="userMottoTiga">&#9917; The Citizent (Manchester City)</string>
+    <string name="add_higlight">add higlight</string>
+    <string name="new_highlight">New</string>
+    <string name="background_highlight">background highlight</string>
+    <string name="song">Song</string>
+    <string name="travel_journy">Travel</string>
+    <string name="other">T</string>
+    <string name="beranda">beranda</string>
+    <string name="search">search</string>
+    <string name="posting">posting</string>
+    <string name="favorite">favorite</string>
+    <string name="profile">profile</string>
+    <string name="menu_feed">menu feed</string>
+    <string name="menu_tag">menu tag</string>
+    <string name="feed">feed</string>
+</resources>
