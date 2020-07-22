@@ -26,4 +26,19 @@
     <string name="menu_feed">menu feed</string>
     <string name="menu_tag">menu tag</string>
     <string name="feed">feed</string>
+    <string name="app_instagram_name">Instragram</string>
+    <string name="user_story">user story</string>
+    <string name="button_live">button live</string>
+    <string name="button_dm">button dm</string>
+    <string name="post_image">post image</string>
+    <string name="button_more">button more</string>
+    <string name="button_love">button love</string>
+    <string name="button_comment">button comment</string>
+    <string name="button_send">button send</string>
+    <string name="button_bookmart">button bookmart</string>
+    <string name="like">1,006,816 likes</string>
+    <string name="caption">\'i don\'t know where i am\' - </string>
+    <string name="view_all_2741_comments">View All 2741 Comments</string>
+    <string name="text_add_comment">Add a comment...</string>
+    <string name="text_time_comment">2 DAYS AGO</string>
 </resources>
